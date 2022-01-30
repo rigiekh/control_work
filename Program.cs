@@ -1,4 +1,5 @@
 ﻿string[] arrString = { "понедельник", "три", "127", "утро", "23" };
+
 string[] FormArray(string[] arrString, int n)
 {
     int lengthArray = 0; 
@@ -43,4 +44,3 @@ Console.Write($"Новый массив строк: ");
 string[] array = FormArray(arrString, 3);
 foreach (string i in array)
     Console.Write($"{i} ");
-    
