@@ -1,0 +1,15 @@
+/Users/reginahisamova/Documents/coding/control_work/bin/Debug/net6.0/control_work
+/Users/reginahisamova/Documents/coding/control_work/bin/Debug/net6.0/control_work.deps.json
+/Users/reginahisamova/Documents/coding/control_work/bin/Debug/net6.0/control_work.runtimeconfig.json
+/Users/reginahisamova/Documents/coding/control_work/bin/Debug/net6.0/control_work.dll
+/Users/reginahisamova/Documents/coding/control_work/bin/Debug/net6.0/ref/control_work.dll
+/Users/reginahisamova/Documents/coding/control_work/bin/Debug/net6.0/control_work.pdb
+/Users/reginahisamova/Documents/coding/control_work/obj/Debug/net6.0/control_work.csproj.AssemblyReference.cache
+/Users/reginahisamova/Documents/coding/control_work/obj/Debug/net6.0/control_work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reginahisamova/Documents/coding/control_work/obj/Debug/net6.0/control_work.AssemblyInfoInputs.cache
+/Users/reginahisamova/Documents/coding/control_work/obj/Debug/net6.0/control_work.AssemblyInfo.cs
+/Users/reginahisamova/Documents/coding/control_work/obj/Debug/net6.0/control_work.csproj.CoreCompileInputs.cache
+/Users/reginahisamova/Documents/coding/control_work/obj/Debug/net6.0/control_work.dll
+/Users/reginahisamova/Documents/coding/control_work/obj/Debug/net6.0/ref/control_work.dll
+/Users/reginahisamova/Documents/coding/control_work/obj/Debug/net6.0/control_work.pdb
+/Users/reginahisamova/Documents/coding/control_work/obj/Debug/net6.0/control_work.genruntimeconfig.cache
